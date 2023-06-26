@@ -1,0 +1,49 @@
+/* OSWALD Font-face */
+@font-face {
+  font-family: 'Oswald';
+  src: url('./Oswald-Bold.ttf');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Oswald';
+  src: url('./Oswald-Heavy.ttf');
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'Oswald';
+  src: url('./Oswald-Light.ttf');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Oswald';
+  src: url('./Oswald-Medium.ttf');
+  font-weight: 400;
+}
+
+/* OPEN SANS font */
+@font-face {
+  font-family: 'Open Sans';
+  src: url('./OpenSans-Bold.ttf');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('./OpenSans-ExtraBold.ttf');
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('./OpenSans-Light.ttf');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('./OpenSans-Regular.ttf');
+  font-weight: 400;
+}
